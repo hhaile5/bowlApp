@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bowlApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="random_button_text">MeetUp</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_first_fragment">KingPin</string>
+    <string name="random_heading">Number of games available %d.</string>
+    <string name="toast_button_text">Stats</string>
+    <string name="count_button_text">Add Game</string>
+
+    <string name="chartText">Game 1 by Frame</string>
+</resources>
